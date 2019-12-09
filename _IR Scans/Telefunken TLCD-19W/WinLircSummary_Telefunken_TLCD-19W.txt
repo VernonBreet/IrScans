@@ -1,0 +1,54 @@
+
+# Please make this file available to others
+# by sending it to <lirc@bartelmus.de>
+#
+# this config file was automatically generated
+# using lirc-0.9.0(IRToy) on Wed May 02 13:15:04 2012
+#
+# contributed by 
+#
+# brand:                       ..\TEST1.txt
+# model no. of remote control: 
+# devices being controlled by this remote:
+#
+
+begin remote
+
+  name  ..\TEST1.txt
+  bits           16
+  flags SPACE_ENC|CONST_LENGTH
+  eps            30
+  aeps          100
+
+  header       9006  4545
+  one           541  1698
+  zero          541   566
+  ptrail        542
+  repeat       9007  2284
+  pre_data_bits   16
+  pre_data       0xFF
+  gap          108588
+  toggle_bit_mask 0x0
+
+      begin codes
+          1                        0x00FF
+          2                        0x807F
+          3                        0x40BF
+          4                        0x20DF
+          5                        0xA05F
+          6                        0x609F
+          7                        0x10EF
+          8                        0x906F
+          9                        0x50AF
+          0                        0xB04F
+          POWER                    0xC03F
+          CH+                      0x8877
+          CH-                      0x9867
+          VOL+                     0x6897
+          VOL-                     0x28D7
+          MUTE                     0x48B7
+      end codes
+
+end remote
+
+
