@@ -1,0 +1,39 @@
+
+# Please make this file available to others
+# by sending it to <lirc@bartelmus.de>
+#
+# this config file was automatically generated
+# using lirc-0.9.0(IRToy) on Mon Oct 08 15:05:21 2012
+#
+# contributed by 
+#
+# brand:                       ..\WinLircSummary_ER-21612A.txt
+# model no. of remote control: 
+# devices being controlled by this remote:
+#
+
+begin remote
+
+  name  ..\WinLircSummary_ER-21612A.txt
+  bits           13
+  flags RC5|CONST_LENGTH
+  eps            30
+  aeps          100
+
+  one           873   891
+  zero          873   891
+  plead         872
+  gap          113681
+  toggle_bit_mask 0x800
+
+      begin codes
+          POWER                    0x100C
+          PGM_UP                   0x1020
+          PGM_DOWN                 0x1021
+          VOL_UP                   0x1010
+          VOL_DOWN                 0x1011
+      end codes
+
+end remote
+
+
