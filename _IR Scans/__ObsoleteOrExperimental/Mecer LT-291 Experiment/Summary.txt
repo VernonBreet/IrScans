@@ -1,0 +1,8 @@
+All 10 PICs tested on both 10R and 100R TV PCB (DIN RAIL).
+
+We have waveforms for DUCT as well (10R and 100R)
+
+Results:
+PIC 3 defined as bad, PIC 6 defined as GOOD (i.e. worked on 10R AND 100R)
+
+see M:\_IR Scans\Mecer LT-291 Experiment

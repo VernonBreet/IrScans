@@ -1,0 +1,3 @@
+The 100 ohm Rail PCB stops 1.486ms after the original remote wave
+The 10 ohm Rail PCB stops 344 us before the original remote wave
+In this PIC 6 Both was not succsessful with the recieving mecer unit only the 10 ohm
