@@ -1,0 +1,81 @@
+31/08/2012  09:22 AM    <DIR>          Amino STB
+07/01/2013  09:51 AM    <DIR>          byDsign STY0222
+31/08/2012  09:23 AM    <DIR>          Copy of LG5
+31/08/2012  09:24 AM    <DIR>          Copy of LG5, from SLL
+31/08/2012  09:19 AM    <DIR>          Copy of Mecer LT320 TV Tuner
+09/01/2013  09:30 AM                 0 dirvb.txt
+10/09/2012  06:24 PM    <DIR>          DSTV Remote
+31/08/2012  09:24 AM    <DIR>          ENZER TV ELCD-19 Remote
+31/08/2012  09:24 AM    <DIR>          FEIPU TV (Raymond)
+31/08/2012  09:24 AM    <DIR>          Hammerstein CRT REMOTE [Sloth]
+31/08/2012  09:21 AM    <DIR>          hIsENSE 22 REMOTE [EN-21662]
+31/08/2012  09:19 AM    <DIR>          Hisense EN-21662A
+31/08/2012  09:19 AM    <DIR>          Hisense EN-21662A (LCD24V87P tv)
+06/12/2012  09:55 AM    <DIR>          Hisense EN-31603A [HV ]
+11/12/2012  03:09 PM    <DIR>          Hisense EN-W12
+09/10/2012  09:40 AM    <DIR>          Hisense ER-21612A [HL ]
+07/01/2013  10:23 AM    <DIR>          Hisense ER-21612A [HL2]
+31/08/2012  09:23 AM    <DIR>          HiSense LEDN19T28
+31/08/2012  09:23 AM    <DIR>          HISense37cm
+31/08/2012  09:22 AM    <DIR>          HISense37cm [EN-30505A]
+31/08/2012  09:20 AM    <DIR>          HiSense47cm [EN-21610]
+31/08/2012  09:20 AM    <DIR>          HiSense47cm [LCD16V87L, ER-21612A]
+31/08/2012  09:24 AM    <DIR>          HiSense_LCD_47cm [EN-21662a]
+31/08/2012  09:25 AM    <DIR>          HOW_TO RECORD_DECODE_REMOTES
+31/08/2012  09:26 AM    <DIR>          HVS4L5 PIC (628 from HL)
+12/11/2012  10:56 AM    <DIR>          JVC LT-19N300
+31/08/2012  09:21 AM    <DIR>          K-World
+31/08/2012  09:24 AM    <DIR>          K-World TV-Box
+06/12/2012  09:55 AM    <DIR>          LG 3 and 4 rework with IOC
+12/11/2012  11:01 AM    <DIR>          LG AKB72915246 (Sloth)
+07/01/2013  10:26 AM    <DIR>          LG M197WAP
+31/08/2012  09:26 AM    <DIR>          LG3 (Raymond)
+31/08/2012  09:22 AM    <DIR>          LG4
+31/08/2012  09:24 AM    <DIR>          LG5
+31/08/2012  09:25 AM    <DIR>          LG5R
+31/08/2012  09:20 AM    <DIR>          Mecer LT-291 Experiment
+31/08/2012  09:21 AM    <DIR>          Mecer LT-291-HD TV Tuner
+31/08/2012  09:23 AM    <DIR>          Mecer LT300 TV Tuner
+31/08/2012  09:19 AM    <DIR>          Mecer LT320 TV Tuner
+31/08/2012  09:23 AM    <DIR>          Mecer LT320 TV Tuner, 628a [rj46]
+31/08/2012  09:19 AM    <DIR>          Mecer TEST 090430
+31/08/2012  09:22 AM    <DIR>          Motorola Remote
+31/08/2012  09:22 AM    <DIR>          Motorola Vip 1003 [MT ]
+31/08/2012  09:21 AM    <DIR>          Panasonic  Audio
+31/08/2012  09:23 AM    <DIR>          Panasonic 54cm 21PM50S
+31/08/2012  09:22 AM    <DIR>          Proline L24D12
+31/08/2012  09:24 AM    <DIR>          PSL vs S4
+31/08/2012  09:23 AM    <DIR>          pVision LCD [Raymond]
+31/08/2012  09:20 AM    <DIR>          pVision PLM19TG LCD [Raymond]
+31/08/2012  09:21 AM    <DIR>          Samsung 75cm TV
+04/09/2012  01:07 PM    <DIR>          Samsung S4 AA59-00499A [Sloth 26in S4 and MultiVision]
+04/09/2012  01:09 PM    <DIR>          SamSung S4 BN59-01010A [100R version, using S22]
+04/09/2012  01:09 PM    <DIR>          SamSung S4 BN59-01010A [S22]
+31/08/2012  09:20 AM    <DIR>          Samsung S4 LCD TV
+04/09/2012  01:09 PM    <DIR>          Samsung xx BN59-00865A
+04/09/2012  01:09 PM    <DIR>          Samsung xx LCD TV [BN59-01003A]
+31/08/2012  09:21 AM    <DIR>          Sansui 54cm
+31/08/2012  09:21 AM    <DIR>          Sinotec 19 LCD [RC-N38]
+31/08/2012  09:25 AM    <DIR>          Sinotec37cm
+24/03/2011  12:12 PM    <DIR>          Sinotec_LCD_19Y26N [RC-N38]
+31/08/2012  09:19 AM    <DIR>          Sinotec_LCD_81cm [RC-N38]
+31/08/2012  09:24 AM    <DIR>          Sony Bravia LCD [RM-GA013]
+31/08/2012  09:20 AM    <DIR>          Sony Bravia LCD [RM-GD015]
+31/08/2012  09:25 AM    <DIR>          Tedelex A
+31/08/2012  09:23 AM    <DIR>          TedelexB
+31/08/2012  09:19 AM    <DIR>          Tedelex_HLT
+31/08/2012  09:26 AM    <DIR>          Tedelex_HLT_vvb
+31/08/2012  09:22 AM    <DIR>          TEK LCD L26D10 TV
+31/08/2012  09:19 AM    <DIR>          Telefunken 22 inc LCD Full HD [TLCD-22FHDA]
+31/08/2012  09:26 AM    <DIR>          Telefunken TLCD-190FHDP [TLCD-190FHDP and TKCD-22FHDPA remote]
+25/09/2012  07:40 AM    <DIR>          Telefunken TLCD-19FHDP [NEW]
+31/08/2012  09:21 AM    <DIR>          Telefunken TLCD-19FHDPA
+07/01/2013  10:00 AM    <DIR>          Telefunken TLCD-19J
+31/08/2012  09:19 AM    <DIR>          Telefunken TLCD-19JA
+07/01/2013  10:00 AM    <DIR>          Telefunken TLCD-19W
+31/08/2012  09:22 AM    <DIR>          Telefunken TLED-190FHD [TLED-190FHD remote]
+31/08/2012  09:19 AM    <DIR>          Telefunken TTV-145
+31/08/2012  09:25 AM    <DIR>          Toshiba AV703G TV [CT-90326 remote]
+31/08/2012  09:20 AM    <DIR>          W DSTV
+31/08/2012  09:20 AM    <DIR>          Wharfedle37cm
+
