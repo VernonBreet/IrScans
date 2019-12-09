@@ -1,0 +1,43 @@
+
+# Please make this file available to others
+# by sending it to <lirc@bartelmus.de>
+#
+# this config file was automatically generated
+# using lirc-0.8.6(IRToy) on Tue Jun 21 16:02:47 2011
+#
+# contributed by 
+#
+# brand:    Panasonic                   
+# model no. of remote control: EUR7717030
+# devices being controlled by this remote: Panasonic 54cm TV 21PM50S
+#
+
+begin remote
+
+  name  \irTOY\WinLIRC\remote1.cfg
+  bits           16
+  flags SPACE_ENC
+  eps            30
+  aeps          100
+
+  header       3431  1792
+  one           429  1287
+  zero          429   419
+  ptrail        441
+  pre_data_bits   32
+  pre_data       0x40040100
+  gap          75631
+  min_repeat      1
+  toggle_bit_mask 0x8080
+
+      begin codes
+          Power                    0xBCBD
+          vol+                     0x0405
+          vol-                     0x8485
+          ch+                      0x2C2D
+          ch-                      0xACAD
+      end codes
+
+end remote
+
+
