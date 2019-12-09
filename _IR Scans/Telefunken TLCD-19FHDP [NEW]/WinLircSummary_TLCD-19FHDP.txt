@@ -1,0 +1,32 @@
+
+# Please make this file available to others
+# by sending it to <lirc@bartelmus.de>
+#
+# this config file was automatically generated
+# using lirc-0.9.0(IRToy) on Tue Jun 26 09:10:22 2012
+#
+# contributed by 
+#
+# brand:                       ..\WinLircSummary_TLCD-19FHDP.txt
+# model no. of remote control: 
+# devices being controlled by this remote:
+#
+
+begin remote
+
+  name  ..\WinLircSummary_TLCD-19FHDP.txt
+  bits           33
+  flags SPACE_ENC|CONST_LENGTH
+  eps            30
+  aeps          100
+
+  one           542  1685
+  zero          542   559
+  ptrail        541
+  gap          107990
+  toggle_bit_mask 0x0
+
+      begin codes
+      end codes
+
+end remote

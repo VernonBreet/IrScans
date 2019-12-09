@@ -1,0 +1,73 @@
+
+# Please make this file available to others
+# by sending it to <lirc@bartelmus.de>
+#
+# this config file was automatically generated
+# using lirc-0.8.6(IRToy) on Fri Jul 01 10:14:11 2011
+#
+# contributed by 
+#
+# brand:                       \irTOY\WinLIRC\Tele.cfg
+# model no. of remote control: 
+# devices being controlled by this remote:
+#
+
+begin remote
+
+  name  \irTOY\WinLIRC\Tele.cfg
+  bits           16
+  flags SPACE_ENC|CONST_LENGTH
+  eps            30
+  aeps          100
+
+  header       8947  4549
+  one           526  1704
+  zero          526   576
+  ptrail        525
+  repeat       8950  2291
+  pre_data_bits   16
+  pre_data       0x4FB
+  gap          108104
+  toggle_bit_mask 0x0
+
+      begin codes
+          Power                    0x4AB5
+          Mute                     0xCA35
+          Vol-                     0x40BF
+          Vol+                     0xA05F
+          Ch-                      0x20DF
+          Ch+                      0xC03F
+          MTS                      0xD02F
+          Sleep                    0x728D
+          Scale                    0x629D
+          System                   0x12ED
+          Freeze                   0xE01F
+          PMode                    0xB04F
+          SMode                    0xB847
+          Display                  0xF807
+          CC                       0x7887
+          Source                   0x02FD
+          Up                       0xE21D
+          Down                     0xB24D
+          Left                     0x926D
+          Right                    0xD22D
+          Enter                    0x52AD
+          Menu                     0x609F
+          Exit                     0x50AF
+          1                        0x00FF
+          2                        0x08F7
+          3                        0x8877
+          4                        0xC837
+          5                        0x28D7
+          6                        0xA857
+          7                        0xE817
+          8                        0x18E7
+          9                        0x9867
+          0                        0xD827
+          _/__                     0x38C7
+          Rotate                   0x32CD
+      end codes
+
+end remote
+
+
